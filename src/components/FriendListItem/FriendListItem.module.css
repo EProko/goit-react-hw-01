@@ -1,0 +1,17 @@
+.text {
+  font-size: 18px;
+  margin: 0;
+}
+
+.textStat {
+  font-size: 12px;
+  margin: 0;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
